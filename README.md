@@ -1,11 +1,11 @@
 # Trabalho LFA -   Web Chassi Finder
 
-## Linguagem Regular
+## Linguagem
 
 ```
-Alfabeto = {[0-9], [A-H], [J-N], [P], [R-Z]}
-Alfabeto = {0,1,2,3,4,5,6,7,8,9, A, B, C, D, E, F, G, H, J, K, L, M, N, P, R, S, T, U, V, W, X, Y, Z}
-Estados = {q0, q1, q2, q3, q4, q5, q6, q7, q8, q9,
+∑ = {0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,G,H,J,K,L,M,N,P,R,S,T,U,V,W,X,Y,Z}
+    ∑ = {[0-9], [A-H], [J-N], [P], [R-Z]}
+Q = {q0, q1, q2, q3, q4, q5, q6, q7, q8, q9,
 q10, q11, q12, q13, q14, q15, q16, q17}
 
 → = {q0}
